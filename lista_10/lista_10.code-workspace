@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DeepLearningBook-master/Cap47/dataset_teste"
+		},
+		{
+			"path": "../DeepLearningBook-master/Cap47/dataset_treino"
+		},
+		{
+			"path": "../DeepLearningBook-master/Cap45/dataset_validation"
+		}
+	],
+	"settings": {}
+}
